@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I graduated in September 2026 as Master in Computer Science with specialization in Secure Software.
 
-In my spare time, I like to tinker with all kinds of tools, trying to automate and make my life as easy as possible. Apart from that, I like to make software as hobby projects. On my profile you can find some of my projects I made throughout the years, so don't hesitate to take a look!
+In my spare time, I like to tinker with all kinds of tools, trying to automate many computer-related things and make my life as easy as possible. Apart from that, I like to make software as hobby projects. On my profile you can find some of my projects I made throughout the years, so don't hesitate to take a look!
